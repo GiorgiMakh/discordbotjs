@@ -26,7 +26,7 @@ Before running the application, make sure you have the following installed on yo
 
 3. Set up configuration:
 
-   - Configure the Token in the `.env` file. Replace `Your-Token` with your actual MongoDB connection URL.
+   - Configure the Token in the `.env` file. Replace `Your-Token` with your actual Token.
    - Configure the Cliend id in the `.env` file. Replace `Your-Application-ClientID` with your key.
 
 Register commands:
