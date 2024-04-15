@@ -1,0 +1,16 @@
+{
+  "name": "discordbotjs",
+  "version": "0.0.1",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "seed": "node ./deploycommands.js"
+  },
+  "author": "@GiorgiMakh",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
